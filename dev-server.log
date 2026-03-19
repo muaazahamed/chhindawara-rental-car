@@ -1,0 +1,4 @@
+Cab backend running on http://localhost:4000
+[0mGET /api/riders [36m304[0m 11.442 ms - -[0m
+[0mGET /api/enquiries/ENQ-1772967646176-0TSO?phone=73957304749 [36m304[0m 22.391 ms - -[0m
+[0mGET /health [32m200[0m 0.786 ms - 11[0m
